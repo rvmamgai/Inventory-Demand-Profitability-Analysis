@@ -109,6 +109,38 @@ Total loss = SUMX(FILTER(new_table, [Profit/Loss] < 0), [Profit/Loss] * new_tabl
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Inventory Performance Overview in testdb
+
+<p align="center">
+  <img src="3_Screenshots/Screenshot (72).png" width="850">
+</p>
+
+
+### 🔹 Profit/Loss Analysis in testdb
+
+<p align="center">
+  <img src="3_Screenshots/Screenshot (74).png" width="850">
+</p>
+
+
+### 🔹 Inventory Performance Overview in proddb
+
+<p align="center">
+  <img src="3_Screenshots/Screenshot (70).png" width="850">
+</p>
+
+
+### 🔹 Profit/Loss Analysis in proddb
+
+<p align="center">
+  <img src="3_Screenshots/Screenshot (71).png" width="850">
+</p>
+
+---
+
+
 ## 🚧 Challenges Faced
 
 **Issue:**  
